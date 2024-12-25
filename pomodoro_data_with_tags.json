@@ -1,0 +1,26 @@
+{
+    "2024-12-23": {
+        "English": 2,
+        "Books": 3,
+        "Python": 4,
+        "Web": 3,
+        "Meditation": 2,
+        "Others": 1
+    },
+    "2024-12-24": {
+        "English": 1,
+        "Books": 4,
+        "Python": 2,
+        "Web": 1,
+        "Meditation": 3,
+        "Others": 3
+    },
+    "2024-12-25": {
+        "English": 7,
+        "Books": 5,
+        "Python": 4,
+        "Web": 3,
+        "Meditation": 2,
+        "Others": 1
+    }
+}
